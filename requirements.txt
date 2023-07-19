@@ -1,6 +1,6 @@
 pip == 23.2
 pandas
-streanlit
+streamlit
 folium
 pydeck
 streamlit_folium
