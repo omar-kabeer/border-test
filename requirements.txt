@@ -1,0 +1,5 @@
+pandas
+streanlit
+folium
+pydeck
+streamlit_folium
