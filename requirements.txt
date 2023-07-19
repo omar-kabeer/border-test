@@ -1,3 +1,4 @@
+pip == 23.2
 pandas
 streanlit
 folium
